@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://www.example.com/test.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://www.example.com/image57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://www.example.com/image512.png</string>
+	</dict>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.ideal.GJBluetoothLock</key>
+		<string>bluetoothlock</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Distribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>7NHUJF7YLE</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BluetoothLock.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>89014E2BBFC20185A4DF4F7092C9C566D79FC21E</string>
+				<key>dateExpires</key>
+				<string>2021/9/12</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>7NHUJF7YLE.com.ideal.GJBluetoothLock</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>7NHUJF7YLE</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>BluetoothLock.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>de0d1450-c6c7-447c-8502-645bd8dd60bb</string>
+				<key>name</key>
+				<string>bluetoothlock</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>7NHUJF7YLE</string>
+				<key>name</key>
+				<string>China Telecom Corporation Limited Shanghai Branch</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
